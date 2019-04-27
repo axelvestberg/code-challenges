@@ -16,7 +16,7 @@ function FirstFactorial(num) {
 		return (num * FirstFactorial(num - 1));
 	}
 }
-console.log(num);
+console.log(8);
 console.log(FirstFactorial(8));
 ```
 
@@ -41,5 +41,10 @@ console.log("Output: " + FirstFactorial(8));
 ## Result
 
 ```
+Input:  4
+Output: 24
+Input:  8
+Output: 40320
 
+[Done] exited with code=0 in 0.22 seconds
 ```
