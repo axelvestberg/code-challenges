@@ -10,3 +10,6 @@ In this repository you will find my code and possibly the solutions for differen
 
 - FizzBuzz -- Refactored [0 times]
 - First Factorial -- Refactored [1 time]
+
+## Todo
+* Write tests for the challenges
