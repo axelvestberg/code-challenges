@@ -9,3 +9,4 @@ In this repository you will find my code and possibly the solutions for differen
 ## Completed challenges
 
 - FizzBuzz -- Refactored [0 times]
+- First Factorial -- Refactored [1 time]
