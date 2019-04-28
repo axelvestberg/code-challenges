@@ -1,41 +1,41 @@
-# First Factorial
+# first Factorial
 
 ## Description
 
->Have the function FirstFactorial(num) take the num parameter being passed and return the factorial of it.<br>For example: if num = 4, then your program should return (4 _ 3 _ 2 \* 1) = 24.<br> For the test cases, the range will be between 1 and 18 and the input will always be an integer.
+>Have the function firstFactorial(num) take the num parameter being passed and return the factorial of it.<br>For example: if num = 4, then your program should return (4 _ 3 _ 2 \* 1) = 24.<br> For the test cases, the range will be between 1 and 18 and the input will always be an integer.
 
 ## My Solution
 
 Initial code:
 
 ```
-function FirstFactorial(num) {
+function firstFactorial(num) {
 	if ((num === 0) || (num === 1)) {
 		return 1;
 	} else {
-		return (num * FirstFactorial(num - 1));
+		return (num * firstFactorial(num - 1));
 	}
 }
 console.log(8);
-console.log(FirstFactorial(8));
+console.log(firstFactorial(8));
 ```
 
 Refactored:
 
 ```
-function FirstFactorial(num) {
+function firstFactorial(num) {
 	if ((num === 0) || (num === 1)) {
 		return 1;
 	} else {
-		return (num * FirstFactorial(num - 1));
+		return (num * firstFactorial(num - 1));
 	}
 }
 
 console.log("Input:  " + 4);
-console.log("Output: " + FirstFactorial(4));
+console.log("Output: " + firstFactorial(4));
 
 console.log("Input:  " + 8);
-console.log("Output: " + FirstFactorial(8));
+console.log("Output: " + firstFactorial(8));
 ```
 
 ## Result
