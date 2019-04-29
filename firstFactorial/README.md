@@ -31,20 +31,33 @@ function firstFactorial(num) {
 	}
 }
 
-console.log("Input:  " + 4);
-console.log("Output: " + firstFactorial(4));
-
-console.log("Input:  " + 8);
-console.log("Output: " + firstFactorial(8));
+module.exports = firstFactorial;
 ```
+## Unit tests
 
+```
+test('first factorial of 0 is 1', () => {
+  expect(firstFactorial(0)).toBe(1);
+});
+
+test('first factorial of 1 is 1', () => {
+  expect(firstFactorial(1)).toBe(1);
+});
+
+test('first factorial of 4 is 24', () => {
+  expect(firstFactorial(4)).toBe(24);
+});
+
+test('first factorial of 8 is 40320', () => {
+  expect(firstFactorial(8)).toBe(40320);
+});
+```
 ## Result
 
 ```
-Input:  4
-Output: 24
-Input:  8
-Output: 40320
-
-[Done] exited with code=0 in 0.22 seconds
+ PASS  FirstFactorial/index.test.js
+  ✓ first factorial of 0 is 1 (2ms)
+  ✓ first factorial of 1 is 1 (1ms)
+  ✓ first factorial of 4 is 24 (1ms)
+  ✓ first factorial of 8 is 40320
 ```

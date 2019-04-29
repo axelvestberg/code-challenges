@@ -1,0 +1,29 @@
+{
+  "name": "code-challenges",
+  "version": "1.0.0",
+  "description": "Repo to archive various small code challenge solution",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axelvestberg/code-challenges.git"
+  },
+  "keywords": [
+    "code",
+    "challenges",
+    "/w",
+    "unit",
+    "tests"
+  ],
+  "author": "Axel Vestberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/axelvestberg/code-challenges/issues"
+  },
+  "homepage": "https://github.com/axelvestberg/code-challenges#readme",
+  "devDependencies": {
+    "jest": "^24.7.1"
+  }
+}
