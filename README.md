@@ -10,6 +10,9 @@ In this repository you will find my code and possibly the solutions for differen
 
 - FizzBuzz -- Refactored [0 times]
 - First Factorial -- Refactored [1 time]
+- Largest Swap -- Refactored [0 times]
 
 ## Todo
-* Write tests for the challenges
+- [x] Install npm and jest
+- [x] Write unit tests for the challenges
+- [ ] Update readmes for all tests, include: title, description, code, tests and results.
