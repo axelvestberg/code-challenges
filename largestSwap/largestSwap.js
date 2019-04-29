@@ -11,6 +11,4 @@ function largestSwap(num) {
   }
 }
 
-console.log('expect false: ' + largestSwap(27));
-console.log('expect true: ' + largestSwap(43));
-console.log('expect true: ' + largestSwap(99));
+module.exports = largestSwap;

@@ -31,11 +31,7 @@ function firstFactorial(num) {
 	}
 }
 
-console.log("Input:  " + 4);
-console.log("Output: " + firstFactorial(4));
-
-console.log("Input:  " + 8);
-console.log("Output: " + firstFactorial(8));
+module.exports = firstFactorial;
 ```
 ## Unit tests
 

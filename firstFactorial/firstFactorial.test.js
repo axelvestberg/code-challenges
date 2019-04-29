@@ -1,4 +1,4 @@
-const firstFactorial = require('./index');
+const firstFactorial = require('./firstFactorial');
 
 
 test('first factorial of 0 is 1', () => {
