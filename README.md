@@ -11,12 +11,14 @@ In this repository you will find my code and possibly the solutions for differen
 
 Cd into folder:
 ```sh
-cd \code-challenges
+cd code-challenges
 ```
-Run npm install
+Run npm install:
 ```
 npm install
 ```
+The only command used for this project is npm test to run the unit tests written to test the challenges.
+`npm test`
 
 ## Completed challenges
 
