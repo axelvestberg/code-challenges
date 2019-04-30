@@ -6,6 +6,18 @@ Repo to archive various small code challenge solution
 
 In this repository you will find my code and possibly the solutions for different code challenges I stumble upon.
 
+
+## Installation & Usage
+
+Cd into folder:
+```sh
+cd \code-challenges
+```
+Run npm install
+```
+npm install
+```
+
 ## Completed challenges
 
 - FizzBuzz -- Refactored [0 times]

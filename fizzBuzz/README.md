@@ -1,4 +1,4 @@
-# FizzBuzz
+# Fizzbuzz
 
 ## Description
 

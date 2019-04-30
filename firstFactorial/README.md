@@ -1,4 +1,4 @@
-# first Factorial
+# First Factorial
 
 ## Description
 
