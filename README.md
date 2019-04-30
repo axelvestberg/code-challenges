@@ -1,4 +1,4 @@
-# Code challenges
+# Code Challenges
 
 Repo to archive various small code challenge solution
 
@@ -17,8 +17,14 @@ Run npm install:
 ```
 npm install
 ```
-The only command used for this project is npm test to run the unit tests written to test the challenges.
-`npm test`
+To run the unit tests, run:
+```
+npm test
+```
+By default it runs all the tests. To test a single file, run:
+```
+npm test -- filename
+```
 
 ## Completed challenges
 
@@ -29,4 +35,5 @@ The only command used for this project is npm test to run the unit tests written
 ## Todo
 - [x] Install npm and jest
 - [x] Write unit tests for the challenges
-- [ ] Update readmes for all tests, include: title, description, code, tests and results.
+- [x] Update readmes for all tests, include: title, description, code, tests and results.
+- [ ] Think of a good way to write a test for fizz buzz without repeating the logic inside the test.
