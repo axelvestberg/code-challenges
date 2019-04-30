@@ -1,4 +1,4 @@
-# Code challenges
+# Code Challenges
 
 Repo to archive various small code challenge solution
 
@@ -11,11 +11,19 @@ In this repository you will find my code and possibly the solutions for differen
 
 Cd into folder:
 ```sh
-cd \code-challenges
+cd code-challenges
 ```
-Run npm install
+Run npm install:
 ```
 npm install
+```
+To run the unit tests, run:
+```
+npm test
+```
+By default it runs all the tests. To test a single file, run:
+```
+npm test -- filename
 ```
 
 ## Completed challenges
@@ -27,4 +35,5 @@ npm install
 ## Todo
 - [x] Install npm and jest
 - [x] Write unit tests for the challenges
-- [ ] Update readmes for all tests, include: title, description, code, tests and results.
+- [x] Update readmes for all tests, include: title, description, code, tests and results.
+- [ ] Think of a good way to write a test for fizz buzz without repeating the logic inside the test.
