@@ -1,6 +1,6 @@
 # Code Challenges
 
-Repo to archive various small code challenge solution
+Repo to archive various small code challenge solution.
 
 ## Description
 
@@ -37,3 +37,4 @@ npm test -- filename
 - [x] Write unit tests for the challenges
 - [x] Update readmes for all tests, include: title, description, code, tests and results.
 - [ ] Think of a good way to write a test for fizz buzz without repeating the logic inside the test.
+- [ ] Make difficulty sections for the challenges, easy, medium, hard.
