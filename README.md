@@ -4,7 +4,7 @@ Repo to archive various small code challenge solution.
 
 ## Description
 
-In this repository you will find my code and possibly the solutions for different code challenges I stumble upon.
+In this repository you will find my code and possibly the solutions for different code challenges I find. I will use these challenges to practice TDD to get in the mindset of writing tests first.
 
 
 ## Installation & Usage
