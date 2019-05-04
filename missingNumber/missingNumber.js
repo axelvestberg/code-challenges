@@ -1,6 +1,5 @@
 function missingNumber(arr) {
-
-  let sum = arr.reduce((a, b)=> a + b, 0);
+  let sum = arr.reduce((x, y)=> x + y, 0);
   return 55 - sum;
 }
 
