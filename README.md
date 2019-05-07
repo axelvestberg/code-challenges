@@ -33,6 +33,7 @@ npm test -- filename
 - Largest Swap -- Refactored [0 times]
 - Capitalize First -- Refactored [0 times]
 - Missing Number -- Refactored [0 times]
+- Spelling -- Refactored [0 times]
 
 ## Todo
 - [x] Install npm and jest
