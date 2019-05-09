@@ -34,6 +34,7 @@ npm test -- filename
 - Capitalize First -- Refactored [0 times]
 - Missing Number -- Refactored [0 times]
 - Spelling -- Refactored [0 times]
+- Maskify String -- Refactored [1 time]
 
 ## Todo
 - [x] Install npm and jest

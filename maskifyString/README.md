@@ -1,4 +1,4 @@
-# Largest Swap
+# Maskify String
 
 ## Description
 
@@ -14,8 +14,6 @@ Initial code:
 function maskifyString (str) {
   return ("#".repeat(str.length-4)) + str.slice(-4);
 }
-
-exports.module = maskifyString;
 ```
 
 Refactored:
