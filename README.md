@@ -1,7 +1,7 @@
 # Code Challenges
 
 ## Description
-This repository will contain small coding problems and my solutions to them. I will also use these challenges to practice TDD to get in the mindset of writing tests first and maintain documentation.
+This repository will contain small coding problems and my solutions to them. I will also use these challenges to practice TDD to get in the mindset of writing tests first and maintain documentation. The unit tests will help alot when refactoring, reducing and improving code.
 
 
 ## Installation & Usage
