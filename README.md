@@ -1,10 +1,7 @@
 # Code Challenges
 
-Repo to archive various small code challenge solution.
-
 ## Description
-
-In this repository you will find my code and possibly the solutions for different code challenges I find. I will use these challenges to practice TDD to get in the mindset of writing tests first.
+This repository will contain small coding problems and my solutions to them. I will also use these challenges to practice TDD to get in the mindset of writing tests first and maintain documentation.
 
 
 ## Installation & Usage
