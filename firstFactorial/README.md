@@ -34,7 +34,9 @@ function firstFactorial(num) {
 
 Refactored 2:
 ```
-return num = ((num === 0) || (num === 1)) ?  1 : (num * firstFactorial(num - 1));
+function firstFactorial(num) {
+	return num = ((num === 0) || (num === 1)) ?  1 : (num * firstFactorial(num - 1));
+}
 ```
 ## Unit tests
 
