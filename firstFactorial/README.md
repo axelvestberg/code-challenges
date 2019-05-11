@@ -20,7 +20,7 @@ console.log(8);
 console.log(firstFactorial(8));
 ```
 
-Refactored:
+Refactored 1:
 
 ```
 function firstFactorial(num) {
@@ -30,8 +30,11 @@ function firstFactorial(num) {
 		return (num * firstFactorial(num - 1));
 	}
 }
+```
 
-module.exports = firstFactorial;
+Refactored 2:
+```
+return num = ((num === 0) || (num === 1)) ?  1 : (num * firstFactorial(num - 1));
 ```
 ## Unit tests
 
