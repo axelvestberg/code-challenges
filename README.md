@@ -38,5 +38,5 @@ npm test -- filename
 - [x] Write unit tests for the challenges
 - [x] Update readmes for all tests, include: title, description, code, tests and results.
 - [ ] Think of a good way to write a test for fizz buzz without repeating the logic inside the test.
-- [ ] Make difficulty sections for the challenges, easy, medium, hard.
+- [ ] Make sections by type of challenge, e.g array, string, algorithm, sorting algorithms. 
 - [ ] Update all challenges with es6 syntax.
