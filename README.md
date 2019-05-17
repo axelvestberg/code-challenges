@@ -33,10 +33,20 @@ npm test -- filename
 - Spelling -- Refactored [0 times]
 - Maskify String -- Refactored [1 time]
 
+## Todo challenges
+- Find the missing number in a given integer array of 1 to 100.
+- Find the duplicate number on a given integer array.
+- Find the largest and smallest number in an unsorted integer array.
+- Find all pairs of an integer array whose sum is equal to a given number.
+- Find duplicate numbers in an array if it contains multiple duplicates.
+- Integer array sorted in place using the quicksort algorithm
+- Remove duplicates from an array in place
+
 ## Todo
-- [x] Install npm and jest
-- [x] Write unit tests for the challenges
+- Update main readme file so to correspond with each challenge readme + possibly find a way to automate this.
+- [x] Install npm and jest.
+- [x] Write unit tests for the challenges.
 - [x] Update readmes for all tests, include: title, description, code, tests and results.
 - [ ] Think of a good way to write a test for fizz buzz without repeating the logic inside the test.
 - [ ] Make sections by type of challenge, e.g array, string, algorithm, sorting algorithms. 
-- [ ] Update all challenges with es6 syntax.
+- [x] Update all challenges with es6 syntax.
