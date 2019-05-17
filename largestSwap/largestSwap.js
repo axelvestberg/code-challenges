@@ -1,5 +1,5 @@
-function largestSwap(num) {
-  
+let largestSwap = num => {
+
   let split = ('' + num).split('').map(Number);
 
   if (split[0] > split[1]) {

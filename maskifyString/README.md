@@ -27,6 +27,12 @@ function maskifyString(str) {
   }
 }
 ```
+
+Refactored 2:
+```
+maskifyString = str => {
+  return str.length < 4 ? str : (("#".repeat(str.length-4)) + str.slice(-4)); }
+```
 comment: Initial code did not pass tests for string.length < 4
 
 ## Unit tests

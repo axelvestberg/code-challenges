@@ -7,7 +7,6 @@
 ## My Solution
 
 Initial code:
-
 ```
 function firstFactorial(num) {
 	if ((num === 0) || (num === 1)) {
@@ -21,7 +20,6 @@ console.log(firstFactorial(8));
 ```
 
 Refactored 1:
-
 ```
 function firstFactorial(num) {
 	if ((num === 0) || (num === 1)) {
@@ -38,6 +36,12 @@ function firstFactorial(num) {
 	return num = ((num === 0) || (num === 1)) ?  1 : (num * firstFactorial(num - 1));
 }
 ```
+
+Refactored 3:
+```
+firstFactorial = num => ((num === 0) || (num === 1)) ?  1 : (num * firstFactorial(num - 1));
+```
+
 ## Unit tests
 
 ```
