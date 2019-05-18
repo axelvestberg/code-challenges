@@ -39,8 +39,8 @@ npm test -- filename
 - Find the largest and smallest number in an unsorted integer array.
 - Find all pairs of an integer array whose sum is equal to a given number.
 - Find duplicate numbers in an array if it contains multiple duplicates.
-- Integer array sorted in place using the quicksort algorithm
-- Remove duplicates from an array in place
+- Integer array sorted in place using the quicksort algorithm.
+- Remove duplicates from an array in places.
 
 ## Todo
 - Update main readme file so to correspond with each challenge readme + possibly find a way to automate this.
