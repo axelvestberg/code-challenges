@@ -34,6 +34,7 @@ npm test -- filename
 - Maskify String -- Refactored [1 time]
 
 ## Todo challenges
+- Write a function that takes two strings, s1 and s2 and returns the longest common subsequence of s1 and s2. example: "ABAZDC", "BACBAD" =>  "ABAD"
 - Discuss time complexity with different solutions.
 - Find more challenges at: https://open.kattis.com/
 - Anagram.
