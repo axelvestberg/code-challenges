@@ -25,11 +25,11 @@ npm test -- filename
 
 ## Completed challenges
 
-- FizzBuzz -- Refactored [0 times]
+- FizzBuzz -- Refactored [1 times]
 - First Factorial -- Refactored [1 time]
-- Largest Swap -- Refactored [0 times]
-- Capitalize First -- Refactored [0 times]
-- Missing Number -- Refactored [0 times]
+- Largest Swap -- Refactored [1 times]
+- Capitalize First -- Refactored [1 times]
+- Missing Number -- Refactored [1 times]
 - Spelling -- Refactored [0 times]
 - Maskify String -- Refactored [1 time]
 
