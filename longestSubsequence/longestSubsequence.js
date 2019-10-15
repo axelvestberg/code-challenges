@@ -1,3 +1,5 @@
+//NOT WORKING
+
 longestSubsequence = (s1, s2, s1StartIndex = 0, s2StartIndex = 0) => {
 	const results = []
 	
@@ -27,15 +29,5 @@ function findLongest(arr) {
 	}
 	return longest;
 }
-
-/*
-
-For each s1[i] compare s2[i] if equal add s1 to result
-
-Om s1 = s2 - lägg till s1 i result och 
-
- 
-
-*/
 
 module.exports = longestSubsequence;

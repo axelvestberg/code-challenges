@@ -49,6 +49,7 @@ npm test -- filename
 - Remove duplicates from an array in places.
 
 ## Todo
+- This project is getting messy. Clean it up.
 - Update main readme file so to correspond with each challenge readme + possibly find a way to automate this.
 - [x] Install npm and jest.
 - [x] Write unit tests for the challenges.
